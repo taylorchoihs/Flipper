@@ -82,3 +82,9 @@
 [submodule "BadUSB/Aleff-BadUSB"]
 	path = BadUSB/Aleff-BadUSB
 	url = https://github.com/aleff-github/my-flipper-shits/
+[submodule "awesome-flipperzero"]
+	path = awesome-flipperzero
+	url = https://github.com/djsime1/awesome-flipperzero.git
+[submodule "NFC/MFKey-noproto"]
+	path = NFC/MFKey-noproto
+	url = https://github.com/noproto/FlipperMfkey.git
